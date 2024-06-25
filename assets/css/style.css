@@ -1,0 +1,25 @@
+.main-section {
+    background-image: url('../img/img-main.jpeg');
+    background-size: cover; 
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #d4d1d1;
+    text-align: center;
+}
+
+.card {
+    height: 120px;
+}
+
+.card img{
+    height: 280px;
+}
+
+nav{
+    
+    width: 100vw;
+    z-index: 999;
+}
